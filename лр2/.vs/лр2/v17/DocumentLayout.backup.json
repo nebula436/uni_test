@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serge\\source\\repos\\\u043B\u04402\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAC12C8-C653-4C59-BB57-23F52D4D7B85}|\u043B\u04402\\\u043B\u04402.vcxproj|C:\\Users\\serge\\source\\repos\\\u043B\u04402\\\u043B\u04402\\\u043B\u04402.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FAC12C8-C653-4C59-BB57-23F52D4D7B85}|\u043B\u04402\\\u043B\u04402.vcxproj|solutionrelative:\u043B\u04402\\\u043B\u04402.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u043B\u04402.cpp",
+              "DocumentMoniker": "C:\\Users\\serge\\source\\repos\\\u043B\u04402\\\u043B\u04402\\\u043B\u04402.cpp",
+              "RelativeDocumentMoniker": "\u043B\u04402\\\u043B\u04402.cpp",
+              "ToolTip": "C:\\Users\\serge\\source\\repos\\\u043B\u04402\\\u043B\u04402\\\u043B\u04402.cpp*",
+              "RelativeToolTip": "\u043B\u04402\\\u043B\u04402.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-15T19:15:25.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
